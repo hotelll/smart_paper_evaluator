@@ -6,21 +6,21 @@ We design several models to evaluate papers from different perspectives, includi
 
 - Deep Paper Gestalt
 
-  <center><img src="figures\paper_gestalt.png" width="500"/></center>
+  <center><img src="figures\paper_gestalt.png" width="700"/></center>
 
 - Gradient Boosting Decision Tree
 
-  <center><img src="figures\lightgbm.png" width="500"/></center>
+  <center><img src="figures\lightgbm.png" width="700"/></center>
 
 - Paper-sequenced based LSTM
 
-  <center><img src="figures\paper_seq.png" width="500"/></center>
+  <center><img src="figures\paper_seq.png" width="700"/></center>
 
-  <center><img src="figures\seq_lstm.png" width="500"/></center>
+  <center><img src="figures\seq_lstm.png" width="700"/></center>
 
 - Attention-based RCNN
 
-  <center><img src="figures\att_rcnn.png" width="500"/></center>
+  <center><img src="figures\att_rcnn.png" width="700"/></center>
 
 ## Dataset
 
