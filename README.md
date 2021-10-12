@@ -12,7 +12,7 @@ We design several models to evaluate papers from different perspectives, includi
 
   <center><img src="figures\lightgbm.png" width="700"/></center>
 
-- Paper-sequenced based LSTM
+- Paper-sequence-based LSTM
 
   <center><img src="figures\paper_seq.png" width="700"/></center>
 
